@@ -1,0 +1,37 @@
+.div1{
+    background-color:white;
+    display:flex;
+    justify-content:space-between;
+    height:100%;
+    width:100%;
+    background-image:url('file:///C:/Users/Admin/Downloads/267914081_597717271310483_8256467929802688322_n.jpg');
+    background-repeat: no-repeat;
+}
+.div4:hover{
+     color:red;
+}
+.div2{
+    padding-left:0;
+    margin:auto 6px;
+
+}
+.div4{
+    color:blue;
+    list-style:none;
+    margin:0 20px;
+    display: inline-block;
+    font-weight:bold;
+    font-size: 23px;
+}
+#div5{
+    width:100%;
+    height:20px;
+}
+#div10{
+    font-size:50px;
+}
+#span1{
+font-size:50px;
+font-weight:bold;
+color:red;
+}
